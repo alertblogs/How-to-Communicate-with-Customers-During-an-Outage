@@ -1,40 +1,66 @@
-AlertOps Expert Guidance
+How to Communicate with Customers During an Outage
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Customers are the lifeblood of a successful enterprise. Yet too often, enterprises fail to keep their customers up to date during an outage. In these scenarios, enterprises risk alienating customers and losing them to rivals. To better understand why this may be the case, let’s consider an example.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+If an enterprise network shuts down, it may impact the company’s ability to deliver critical services to its customers. Meanwhile, an enterprise incident management team that focuses solely on internal communications – and fails to keep client support staff up to date – puts its business at risk.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Whereas incident management team members are kept in the loop about the outage, all other stakeholders are left to wonder what is happening. This ultimately may result in miscommunications across the business.
 
-Automate Processes
+At the same time, customers may reach out to the business’ client support team to find out why various services are unavailable and when service issues are going to be corrected. But client support team members likely have no idea that an outage has occurred until customers notify them about it. At this point, customers may be frustrated and ready to consider other service providers.
+
+Enterprises also may face regulatory penalties if major outages – and the customer communications associated with them – are not managed properly. Perhaps even worse, an enterprise that fails to meet the requirements of a service-level agreement (SLA) could suffer brand reputation damage, revenue losses and other customer-centric issues.
+
+How to Maintain Communication with Customers During an Outage
+
+There is no need to let even a minor outage cause long-term customer problems. Now, let’s take a look at five tips to help your enterprise maintain communication with customers during an outage:
+
+    Be Proactive
+
+Don’t wait to notify customers and other key stakeholders about an outage. Instead, alert stakeholders right away and continue to keep them up to date until an outage is resolved.
+
+An alert tracking system that offers templates can play an important part in proactive customer communications, too. This system comes equipped with standard templates for each type of response. Additionally, incident management teams can use the system to craft custom templates.
+
+    Provide Pertinent Information
+
+Send alerts that provide customers with information they want to know. That way, customers can get the information they need, precisely when they need it.
+
+Consider the customer’s perspective when crafting incident notifications as well. By doing so, an incident management team can tailor its message to its target audience.
+
+    Use a Clear, Concise Tone
+
+It is crucial to avoid miscommunications that otherwise confuse or irritate customers. With a clear, concise tone, an incident management team can avoid such issues.
+
+Provide customers with timely, accurate information in each alert. Furthermore, avoid jargon, and use terms that customers are sure to understand.
+
+    Deliver Regular Updates
+
+Don’t leave customers in the dark during an outage. Conversely, provide updates as frequently as possible – even if the update is that there is nothing new to report at this time.
+
+An alert tracking system that offers workflow automations can help an incident response team maintain contact with customers throughout an outage. This system enables an incident management team to deliver the right message, to the right audience, at the right time, every time.
+
+Thanks to the aforementioned system, an incident management team can create workflows to automate callbacks to ticketing software, forward flows to open and close tickets and more. Best of all, automated workflows can be used to instantly notify customers and other key stakeholders about outages and other incidents. 
+
+Follow-Up with Customers
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+An outage is a serious problem, regardless of its size. As such, it deserves the utmost attention and should be analyzed from all angles.
 
-Clarity
+By following up with customers after an outage, an incident management team can identify its strengths and weaknesses. Then, an incident management team can use customer feedback to drive meaningful business improvements.
+
+It generally won’t take long to follow up with customers after an outage, and the benefits of a customer follow-up can be long-lasting. If an incident management team requests customer feedback, it can show customers that it cares. As a result, this team could help an enterprise bolster its customer satisfaction levels and further differentiate itself from the competition.
+
+Choose the Right Alert Tracking System for Your Enterprise
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Outages are worrisome for an enterprise and its customers. Fortunately, an alert monitoring system helps an incident management team maintain ongoing customer communication.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+An alert tracking system simplifies customer communications, and for good reason. It enables an incident management team to notify customers about an outage or other problems. Plus, the system allows an incident management team to engage customers like never before.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+When it comes to customer communications, an alert tracking system is a must-have for enterprises. With this system in place, an incident management team can keep in touch with customers throughout all stages of an incident.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/communicate-customers-outage/
 
 Read more:
 ====
